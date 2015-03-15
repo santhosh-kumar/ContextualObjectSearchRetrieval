@@ -1,6 +1,3 @@
-# ContextualObjectSearchRetrieval
-Context-Aware Object Search and Retrieval
-
 A multi-camera object search and retrieval algorithm using matlab.
 
 This is a matlab implementation of the papers "Context-Aware Hypergraph Modeling for Re-identification and Summarization" submitted to TMM and "Context-Aware Graph Modeling for Object Search and Retrieval in a Wide Area Camera Network" published in ICDSC'13.
