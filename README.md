@@ -7,16 +7,20 @@ Usage
 
 In order to run the algorithm, use the following command:
 
-i) 
+i) Run main.m: Generates the weight matrix and performs graph based query ranking.
 
-ii) 
-
-iii) Finally run main.m
+iii) Run main_viper.m: Generates the weight matrix and performs association based ranking.
 
 Data Processing
 ------------
 
-i)
+i) Run scripts/generateTracklets.m to create tracklets for university bikepath dataset (generateTracklets_viper.m for ViPeR Dataset).
+
+ii) Run scripts/extractColorFeatures.m to extract color features for the generated tracklets ( extractColorFeatures_viper.m for ViPeR dataset).
+
+iii) Run scripts/modelColorDriftPatterns.m to learn the color drift model based on the ground truth (modelColorDriftPattern_viper.m for ViPeR dataset).
+
+iv) Run scripts/modelSpatialTemporalTopology1.m for learning spatial-temporal topology model for the university bike path dataset.
 
 
 Dataset
