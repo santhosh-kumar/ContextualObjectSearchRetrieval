@@ -25,7 +25,7 @@ iv) Run scripts/modelSpatialTemporalTopology1.m for learning spatial-temporal to
 
 Dataset
 ------------
-i) Download the sample dataset archive in a supported format from: and save it in the root folder
+i) Download the sample dataset archive in a supported format from:https://www.dropbox.com/s/dp558f6rzcd3yke/data.zip?dl=0 and save it in the root folder
 
 ii) Untar the data folder:
 tar -xzf data.tar.gz
