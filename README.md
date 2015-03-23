@@ -38,7 +38,7 @@ iii) The folder structure would like this:
 ├── data
 ├── data.tar.gz
 ├── libs
-└── scripts
+├── scripts
 └── src
 ~~~
 
